@@ -24,13 +24,13 @@ Quando terminei o wireframe fui em busca de informações para o projeto e encon
 
   ### Tecnologias utilizadas
   HTML semantico, CSS e Bootsrap.
-  JavaScript, jquery, Node, React
+  JavaScript, jquery, Node, React, TypeScript
 </p>
 
 ## Uso de IA:
 <br>
-Utilizei o ChatGPT para fazer algumas perguntas do questionario e para me ajudar a lembrar de algumas sintaxes do codigo.
+Utilizei o ChatGPT para fazer algumas perguntas do questionario, para me ajudar a lembrar de algumas sintaxes do codigo e para a refatoração em typeScript usei o gemini.
 
 ## Desafios:
 <br>
-O desafio foi para fazer o deploy do projeto em react funcionar perfeitamente e conseguir fazer o projeto no tempo disponibilizado.
+O desafio foi para fazer o deploy do projeto em react funcionar, como não consegui fazer com o jsx fui obrigado a passar para tsx e assim conseguindo fazer o deploy na vercel.
